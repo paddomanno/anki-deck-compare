@@ -7,6 +7,7 @@ This Python script compares your **Main** Anki vocabulary deck to the **Genki** 
 - 🟡 **Extra words** (vocab in your main deck that does not appear in Genki)
 
 Example output:
+
 ![Console output](./docs/example_output_01.PNG)
 ![Console output](./docs/example_output_02.PNG)
 
